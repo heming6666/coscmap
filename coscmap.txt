@@ -1,0 +1,289 @@
+开源地图
+	开源社区
+		高校
+			北京
+				中科院开源软件协会
+					http://www.opencas.cn/ https://github.com/opencas
+				清华大学TUNA 协会
+					https://tuna.moe/ 
+					https://github.com/tuna/ 
+					http://weibo.com/u/5402274706
+				开源软件协会
+					https://www.pkuosa.org https://github.com/pku-osa
+				北京大学Linux俱乐部
+					https://lcpu.club
+			上海
+				同济大学开源社区
+				上海科技大学Geek Pie
+					https://geekpie.org
+				上海大学开源软件社区
+					http://weibo.com/shuopensource
+			天津
+				天津大学北洋Linux协会
+			安徽
+				中国科技技术大学Linux 用户协会
+			江苏
+				南京邮电大学开源软件社区
+			甘肃
+				兰州大学兰州大学开源社区
+			四川
+				电子科技大学电子科技大学开源社区
+				四川大学科学与技术协会
+			重庆
+				重庆大学开源软件协会
+				西南大学开源软件协会
+				重庆邮电大学Linux协会
+			广东
+				汕头大学Linux协会
+				广州大学开源软件协会
+			湖北
+				武汉科技大学开源软件协会
+				武汉大学
+					计算机协会
+					程序员协会
+			陕西
+				西安邮电大学Linux兴趣小组	
+				西安大学西电开源软件协会	
+				西安财经学校Linux兴趣小组
+				西安理工大学Linux小组
+				陕西科技大学Linux兴趣小组
+				西北农林科技大学西农开源软件协会
+				西安科技大学开源软件协会
+			山东
+				山东大学开源软件俱乐部
+				青岛大学OSQDU OSS Organization
+			黑龙江
+				哈尔滨工业大学
+					IBM俱乐部
+					计算机协会
+			浙江
+				浙江大学Linux用户组
+			辽宁
+				东北大学开源软件协会
+			福建
+				厦门大学Linux用户组
+		Linux兴趣小组
+			北京Linux用户组
+				http://beijinglug.org
+			上海Linux用户组
+				http://www.shlug.org/
+			广州Linux用户组
+				http://www.gzlug.org/
+			南京Linux用户组
+				http://nanjinglug.org/
+			苏州自由软件用户组
+				http://weibo.com/sfug
+			杭州Linux用户组
+				http://hzlug.org/
+			重庆Linux用户组	
+				http://www.chongqinglug.org
+			福建Linux用户组	
+				https://groups.google.com/forum/?fromgroups#!forum/fujianlug
+			河北Linux用户组	
+				http://www.heblug.org
+			成都Linux用户组
+				https://groups.google.com/forum/?hl=en#!forum/cdlug_community
+			香港Linux用户组
+				http://test1.linux.org.hk
+			深圳Linux用户组
+				http://szlug.org
+			河南Linux用户组
+				http://weibo.com/hnlug
+			哈尔滨Linux用户组
+				http://gitcafe.com/HrBLUG
+		公共在线社区
+			开源中国社区（OSChina）
+				Oschina.net
+			CSDN
+				csdn.net
+			开源社
+				www.kaiyuanshe.cn
+			开源中国网（China OSS）
+				Oss.org.cn
+			Linux伊甸园 Linuxeden
+				www.linuxeden.com
+			LUPA
+				Lupaworld.com
+			Open-Open
+				www.open-open.com
+			我们的Linux
+				Linux.cn
+			Chinaunix
+				Chinaunix.net
+			IMCN
+				Imcn.me
+		特定项目-技术社区
+			Ubuntu中国社区
+				forum.ubuntu.org.cn
+			火狐社区（中国）
+				mozilla.com.cn
+			Fedora中文社区
+				www.fdzh.org
+			BlenderCN
+				www.blendercn.org
+			OpenFans社区
+				www.openfans.org
+			文泉驿
+				wenq.org
+			CentOS中文
+				www.centoscn.com
+			PHPChina
+				www.perlchina.org
+			CloudStack中国社区
+				www.cloudstack-china.org
+			OpenWRT中文应用技术网
+				www.openwrt.org.cn
+			FreeBSDChina
+				www.freebsdchina.org
+		开源项目托管平台
+			Coding (coding.net)
+			CSDN CODE（code.csdn.net）
+			码云（git.oschina.net）
+			SVN China 中国源代码托管中心（www.svnchina.com）
+		下载站点
+			中国科学技术大学开源软件镜像（debian.ustc.edu.cn）
+			清华大学 TUNA 镜像源（mirrors.tuna.tsinghua.edu.cn）
+			浙江大学开源镜像站（mirrors.lifetoy.org）
+			兰大开源社区镜像站（mirror.lzu.edu.cn）
+			北京理工大学开源软件镜像（mirror.bit.edu.cn）
+			中国互联网络信息中心开源镜像站（mirrors.cnnic.cn）
+			中科院开源软件协会镜像站（mirrors.opencas.org）
+	开源领域大会
+		国内大会
+			开源中国开源世界高峰论坛
+				北京
+				http://special.csdncms.csdn.net/160407/
+				主办方
+					中国开源软件推进联盟（COPU）
+			HTML5峰会
+				上海
+				http://www.techweb.com.cn/news/2016-05-09/2329419.shtml
+				主办方
+					html5dw
+			中国Linux内核开发者大会
+				上海
+				http://www.ckernel.org/
+				主办方
+					fujitsu 
+					IBM	
+					AKA阿卡信息技术小组
+					英特尔公司开源技术中心
+					清华大学
+			全球容器技术大会
+				北京
+				http://www.cnutcon.com/
+				主办方
+					infoq
+			全球云计算大会
+				上海
+				http://www.cloudconnectevent.cn/
+				主办方
+					IBM China
+			中国云计算大会
+				北京
+				http://www.ciecloud.org/2016
+				主办方
+					中国电子学会
+			中国开源企业存储大会
+				北京
+				http://www.ctoutiao.com/81005.html
+				主办方
+					ZD至顶网
+					红帽
+
+		国际会议
+			O'Reilly Open Source Convention
+				英国伦敦
+				http://conferences.oreilly.com/oscon/open-source-eu
+			Open Source Bridge
+				美国波特兰
+				http://opensourcebridge.org/attend
+			FOSDEM 2016
+				比利时布鲁塞尔
+				https://fosdem.org/2016/
+			HKOSCon 2015
+				中国香港
+				https://2016.opensource.hk/
+			Open source backup conference
+				德国科隆
+				http://osbconf.org
+			Linaro Connect
+				美国拉斯维加斯
+				http://connect.linaro.org
+			SCALE
+				美国洛杉矶
+				http://www.socallinuxexpo.org/scale/14x
+			LinuxCon Japan
+				日本东京
+				http://events.linuxfoundation.org/events/linuxcon-japan
+			PyCon
+				美国波特兰
+				https://us.pycon.org/2016/
+			OpenStack Summit
+				西班牙巴塞罗那
+				https://www.openstack.org/summit/
+			LPC
+				美国圣达菲
+				http://linuxplumbersconf.org
+	开源基金会
+		Apache Software Foundation
+			http://www.apache.org/foundation/
+		The Document Foundation
+			http://www.documentfoundation.org/
+		Free Software Foundation
+			http://www.fsf.org/about/
+		Linux Foundation
+			https://www.linuxfoundation.org/about
+		Linux Profes sional Institute (LPI)
+			https://www.lpi.org/
+		Open Source Geospatial Foundation
+			http://www.osgeo.org/content/foundation/about.html
+		Eclipse Foundation
+			https://eclipse.org/org/
+		Cloud Foundry Foundation
+			https://www.cloudfoundry.org/foundation/
+		OpenStack Foundation
+			https://www.openstack.org/foundation/
+		Open Source Initiative
+			http://www.opensource.org/
+	产业协会
+		中国开源软件推进联盟（China Open Source Promotion Union，简称：COPU）
+		共创软件联盟（ CoCreate OSS Union）
+		开源及基础软件通用技术创新联盟（简称：U盟）
+		北京长风开放标准平台软件产业联盟（简称：长风联盟）
+		中国智能终端操作系统产业联盟
+		湖北省开源软件推进联盟
+		云计算开源产业联盟（OSCAR）
+		绿色计算产业联盟（Green Computing Consortium）
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+				
+			
+
+
+
+
+
+
+
+
+
+
+
